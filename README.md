@@ -1,6 +1,6 @@
 # Car-Animation
 # A dark car actually going on a starry midnight drive.
-# It's purpose is to entertain by showing a car going on a night drive with lots of stars in the sky.
+# Its purpose is to entertain by showing a car going on a night drive with lots of stars in the sky.
 import simplegui
 
 def draw_handler(canvas):
